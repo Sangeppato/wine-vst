@@ -7,7 +7,7 @@ All the reported VSTs were tested in [Reaper](https://www.reaper.fm/), with the 
 If you would like to add one or more VST to the list or if you find anything wrong in it, open an issue or communicate your experience in the [Reaper forum](https://forum.cockos.com/showthread.php?t=217855)
 
 | VST | Functionality | Tested Distros |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 LePou Amp Pack (all sims) | Fully working | Arch Linux, Ubuntu 18.10
 LePou LeCab (32 bit) | NOT working/Unusable | Arch Linux, Ubuntu 18.10
 IK Amplitube 4/Custom Shop | Fully working | Arch Linux, Ubuntu 18.10
