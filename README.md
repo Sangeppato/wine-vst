@@ -6,7 +6,7 @@ All the reported VSTs were tested in [Reaper](https://www.reaper.fm/), with the 
 
 If you would like to add one or more VST to the list or if you find anything wrong in it, open an issue or communicate your opinion in the [Reaper forum](https://forum.cockos.com/showthread.php?t=217855). Remember to indicate the Distro and the Wine version you're using.
 
-NOTE: This list will never be complete, neither reagarding the tested distros or the Wine versions nor the tested plugins. The only purpose of this list is to give you an idea about what you can expect to get working with LinVst, without messing with your system (Only if you don't use a completely unknown distro, in which case you may consider switching to something more popular).
+NOTE: This list will never be complete, neither reagarding the tested distros and the Wine versions, nor the tested plugins. The main purpose of this list is to give you an idea about what you can expect to get working with LinVst, without messing with your system (If you're not using a completely unknown distro, in which case you may consider switching to something more popular).
 
 ## Tested VSTs
 
