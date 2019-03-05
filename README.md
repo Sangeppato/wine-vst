@@ -11,7 +11,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros or
 ## Tested VSTs
 
 | VST | Working | Details | Tested Distros | Tested Wine Versions |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Amplesound Ample Bass P Lite II | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Amplesound Ample Guitar M Lite II | ● | No MIDI drag and drop| Linux Mint Debian 3 | 4.3 |
 | Audio Assault BassGrinder Free | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
