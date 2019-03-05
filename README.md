@@ -1,6 +1,6 @@
 # Wine-vst
 
-A collection of some VSTs tested under Linux with [Wine](https://www.winehq.org/) and [LinVst](https://github.com/osxmidi/LinVst).
+This is a collection of some VSTs tested under Linux with [Wine](https://www.winehq.org/) and [LinVst](https://github.com/osxmidi/LinVst).
 
 All the reported VSTs were tested in [Reaper](https://www.reaper.fm/), with the indicated Wine versions (However, all the versions of Wine higher than the reported ones SHOULD work as well, pease report if you find out this is not the case). When there are multiple Wine versions declared (e.g. 4.0-4.2), it means that the VST was tested from the former version to the latter.
 
