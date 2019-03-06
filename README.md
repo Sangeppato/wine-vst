@@ -2,13 +2,20 @@
 
 This is a collection of some VSTs tested under Linux with [Wine](https://www.winehq.org/) and [LinVst](https://github.com/osxmidi/LinVst).
 
-All the reported VSTs were tested in [Reaper](https://www.reaper.fm/), with the indicated Wine versions (However, all the versions of Wine higher than the reported ones SHOULD work as well, pease report if you find out this is not the case). When there are multiple Wine versions declared (e.g. 4.0-4.2), it means that the VST was tested from the former version to the latter.
+All the reported VSTs were tested in [Reaper](https://www.reaper.fm/), with the indicated Wine versions (However, all the versions of Wine higher than the reported ones SHOULD work as well, pease report if you find out this is not the case).
 
 If you would like to add one or more VST to the list or if you find anything wrong in it, open an issue or communicate your opinion in the [Reaper forum](https://forum.cockos.com/showthread.php?t=217855). Remember to indicate the Distro and the Wine version you're using.
 
 NOTE: This list will never be complete, neither reagarding the tested distros and the Wine versions, nor the tested plugins. The main purpose of this list is to give you an idea about what you can expect to get working with LinVst, without messing with your system (If you're not using a completely unknown distro, in which case you may consider switching to something more popular).
 
 ## Tested VSTs
+
+NOTE:
+
+* When there are multiple reported Wine versions (e.g. 4.0-4.2), it means that the VST was tested from the former version to the latter.
+* ✔ indicates a fully working plugin
+* ● indicates a working plugin, with minor issues
+* ✘ indicates the presence of some critocal issues that make the plugin unstable/unusable
 
 | VST | Working | Details | Tested Distros | Tested Wine Versions |
 | --- | :---: | :---: | :---: | :---: |
