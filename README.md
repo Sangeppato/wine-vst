@@ -12,8 +12,10 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 
 | VST | Working | Details | Tested Distros | Tested Wine Versions |
 | --- | :---: | :---: | :---: | :---: |
+| Alesis Microverb | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Amplesound Ample Bass P Lite II | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Amplesound Ample Guitar M Lite II | ● | No MIDI drag and drop| Linux Mint Debian 3 | 4.3 |
+| Arturia Minimoog V | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Audio Assault BassGrinder Free | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
 | Audio Assault Defacer | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
 | Audio Assault FilterCrusher | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
@@ -25,6 +27,10 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Audio Assault Druminator | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
 | CK_Modules X-Jupitae Flexoid | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | CK_Modules X-Jupitae Wide-Boy | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
+| Clone Ensemble BassChorus | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Creative E-MU Proteus VX | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| DVS Guitar | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| DVS Saxophone | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | HoRNet SW34EQ MK2 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet Graffio | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet Tape | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
@@ -46,15 +52,41 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Ignite NadIR | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | Ignite Emissary | ● | Some graphical glitches | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
+| IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
+| Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
+| LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
+| Lexicon Pantheon Reverb | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Native Instruments Kontakt 5 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Native Instruments Guitar Rig | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Native Instruments B4 Organ | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Native Instruments FM7 Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| One Small Clue Grace Sampler | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| PSP Vintage Warmer | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Spitfire Audio Peel Guitar | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Spitfire Audio Strings | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Stillwell Audio The Rocket | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
-| Toontrack EZDrummer | ● | No drag and drop | Ubuntu Studio 18.10 | / |
+| Synthedit Davo Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit eSline ARP String ensemble | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit MicroMoon MicroMoog | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit SxMJune Juno synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit MoonSonoSX | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit NanoTron Mellotron | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit ODsay ARP Odyssey | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit OR2V Oberheim TVS | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit Mr. Ray 73 Rhodes | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit Mr. Tramp Rhodes | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Synthedit Jazz Baby Grand | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| TBProAudio dpMeter3 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Tokyo Dawn TDR Nova | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Toontrack EZDrummer 1 | ● | No drag and drop | Ubuntu 18.04, Ubuntu Studio 18.10 | 4.0 |
+| Toontrack EZkeys Piano Essentials | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Toontrack Drumkit From Hell Superior | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Toontrack Superior Drummer 2 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Vacuumsound ADT | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Valhalla Vintage verb | ✔ | Fully working | Fedora 29 | 4.0 |
 | Variety Of Sounds Plugin Suite | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Vember Audio Shortcircuit 1.1.2 | ✘ | Not finding/loading samples | Ubuntu 14.04 | 2.0 |
 | Voxengo FREE Plugins | ✔ | Fully working | Ubuntu Studio 18.10 | / |
 | Voxengo Elephant | ✔ | Fully working | Fedora 29 | 4.0 |
+| Yohng W1 Limiter | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
