@@ -13,7 +13,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 * When there are multiple reported Wine versions (e.g. 4.0-4.2), it means that the VST was tested from the former version to the latter.
 * ✔ indicates a fully working plugin
 * ● indicates a working plugin, with minor issues
-* ✘ indicates the presence of some critocal issues that make the plugin unstable/unusable
+* ✘ indicates the presence of some critical issues that make the plugin unstable/unusable
 
 | VST | Working | Details | Tested Distros | Tested Wine Versions |
 | --- | :---: | :---: | :---: | :---: |
