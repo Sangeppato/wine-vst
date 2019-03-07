@@ -55,7 +55,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | HoRNet Magnus MK2 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet VU Meter MK3 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Ignite NadIR | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| Ignite Emissary | ● | Some graphical glitches | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
+| Ignite Emissary 1-2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
 | Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
