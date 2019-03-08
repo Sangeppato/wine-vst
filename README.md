@@ -95,3 +95,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Voxengo FREE Plugins | ✔ | Fully working | Ubuntu Studio 18.10 | / |
 | Voxengo Elephant | ✔ | Fully working | Fedora 29 | 4.0 |
 | Yohng W1 Limiter | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+
+Be aware that your experience can greatly vary depending on which plugin you're using, but it's possible to achieve very good results through Wine and LinVst.
+
+(Interesting fact: On my laptop, with a i7-6500u and a Behringer UMC204HD audio interface, I actually get less drop-outs running Amplitube 4 in Reaper through LinVst than I do on a native Windows 10 installation with the latest specific ASIO drivers)
