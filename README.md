@@ -68,6 +68,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Native Instruments FM7 Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | One Small Clue Grace Sampler | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Overloud TH3 | ✔ | Fully working | Arch Linux | 4.2 |
+| Positive Grid BIAS FX | ✘ | Serious GUI issues | Arch Linux | 4.2 |
 | PSP Vintage Warmer | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Spitfire Audio Peel Guitar | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Spitfire Audio Strings | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
@@ -99,6 +100,8 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Voxengo Elephant | ✔ | Fully working | Fedora 29 | 4.0 |
 | Yohng W1 Limiter | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 
-Be aware that your experience can greatly vary depending on which plugin you're using, but it's possible to achieve very good results through Wine and LinVst.
+Be aware that your experience can greatly vary depending on which plugin you're using, but in some cases it's possible to achieve very good results through Wine and LinVst.
+
+Apparently the biggest issues usually concern the GUI (as confirmed by osxmidi himself) and the license activation/registration, while the sound processing works fine in general.
 
 (Interesting fact: On my laptop, with a i7-6500u and a Behringer UMC204HD audio interface, I actually get less drop-outs running Amplitube 4 in Reaper through LinVst than I do on a native Windows 10 installation with the latest specific ASIO drivers)
