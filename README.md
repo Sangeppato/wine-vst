@@ -67,6 +67,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Native Instruments B4 Organ | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments FM7 Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | One Small Clue Grace Sampler | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Overloud TH3 | ✔ | Fully working | Arch Linux | 4.2 |
 | PSP Vintage Warmer | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Spitfire Audio Peel Guitar | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Spitfire Audio Strings | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
@@ -85,9 +86,11 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | TBProAudio dpMeter3 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Tokyo Dawn TDR Nova | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Toontrack EZDrummer 1 | ● | No drag and drop | Ubuntu 18.04, Ubuntu Studio 18.10 | 4.0 |
+| Toontrack Superior Drummer 3 | ✘ | No activation, No presets, GUI issues | Arch Linux | 4.2 |
 | Toontrack EZkeys Piano Essentials | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Toontrack Drumkit From Hell Superior | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Toontrack Superior Drummer 2 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| TSE X50 | ● | Free version only (Registration doesn't work) | Arch Linux | 4.2 |
 | Vacuumsound ADT | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Valhalla Vintage verb | ✔ | Fully working | Fedora 29 | 4.0 |
 | Variety Of Sounds Plugin Suite | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
