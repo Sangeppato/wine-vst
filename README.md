@@ -68,6 +68,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Native Instruments FM7 Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | One Small Clue Grace Sampler | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Overloud TH3 | ✔ | Fully working | Arch Linux | 4.2 |
+| Plugin Alliance Brainworx bx_rockrack V3 Player (Free presets) | ✔ | Fully working | Arch Linux | 4.2 |
 | Positive Grid BIAS FX | ✘ | Serious GUI issues | Arch Linux | 4.2 |
 | PSP Vintage Warmer | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Spitfire Audio Peel Guitar | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
