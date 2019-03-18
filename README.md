@@ -21,6 +21,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Amplesound Ample Bass P Lite II | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Amplesound Ample Guitar M Lite II | ● | No MIDI drag and drop| Linux Mint Debian 3 | 4.3 |
 | Arturia Minimoog V | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Arturia V Collection | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Audio Assault BassGrinder Free | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
 | Audio Assault Defacer | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
 | Audio Assault FilterCrusher | ✔ | Fully Working | Ubuntu Studio 18.10 | / |
@@ -66,6 +67,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Native Instruments Guitar Rig | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments B4 Organ | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments FM7 Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Native Instruments FM8 Synth | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | One Small Clue Grace Sampler | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Overloud TH3 | ✔ | Fully working | Arch Linux | 4.2 |
 | Plugin Alliance Brainworx bx_rockrack V3 Player (Free presets) | ✔ | Fully working | Arch Linux | 4.2 |
