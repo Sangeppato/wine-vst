@@ -56,12 +56,13 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | HoRNet Magnus MK2 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet VU Meter MK3 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Ignite NadIR | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| Ignite Emissary 1-2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
+| Ignite NadIR 2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.4 |
+| Ignite Emissary 1-2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.4 |
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
+| IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
-| LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
-| LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.2 |
+| LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
+| LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | Lexicon Pantheon Reverb | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments Kontakt 5 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments Guitar Rig | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
