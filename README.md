@@ -59,7 +59,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Ignite NadIR 2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.4 |
 | Ignite Emissary 1-2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.4 |
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
-| IK Amplitube 4/Custom Shop | ● | Saving presets doesn't work (can't write preset names) | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
+| IK Amplitube 4/Custom Shop | ✔ | Fully working (NOTE: can't write preset names on Wayland) | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
