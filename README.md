@@ -60,6 +60,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Ignite Emissary 1-2 | ● | Some graphical glitches (d2d1.dll) | Arch Linux, Ubuntu 18.10 | 4.0-4.4 |
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
+| iZotope Ozone 8 | ✘ | Doesn't run | Ubuntu 18.04 | 4.0 |
 | Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
