@@ -62,7 +62,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | iZotope Ozone 8 | ✘ | Doesn't run | Ubuntu 18.04 | 4.0 |
-| Klanghelm MJUC | ✔ | Fully working, except hidden control panel | MX Linux 18.2 | 4.7 |
+| Klanghelm MJUC | ✔ | Fully working, except hidden drive,timbre, SCF, Mix controls | MX Linux 18.2 | 4.7 |
 | Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Klanghelm SDRR | ✔ | Fully working | MX Linux 18.2 | 4.7 |
 | LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
