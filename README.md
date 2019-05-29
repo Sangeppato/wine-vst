@@ -80,6 +80,8 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Plugin Alliance Brainworx bx_rockrack V3 Player (Free presets) | ✔ | Fully working | Arch Linux | 4.2 |
 | Positive Grid BIAS FX | ✘ | Serious GUI issues | Arch Linux | 4.2 |
 | PSP Vintage Warmer | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Rayzoon Jamstix 3 | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Rayzoon Jamstix 4 | ● | Blank activation screen | MX Linux 18.2 | 4.7 |
 | Spitfire Audio Peel Guitar | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Spitfire Audio Strings | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Stillwell Audio The Rocket | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
