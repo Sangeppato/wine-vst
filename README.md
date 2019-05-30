@@ -37,7 +37,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Creative E-MU Proteus VX | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | DVS Guitar | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | DVS Saxophone | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
-| Fxpansion BFD3 | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Fxpansion BFD3 | ✔ | Fully working, use version 3.2.3.3. Version 3.4.0.44 crashes on second load | MX Linux 18.2 | 4.7 |
 | HoRNet SW34EQ MK2 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet Graffio | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet Tape | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
