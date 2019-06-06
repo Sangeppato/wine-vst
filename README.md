@@ -2,9 +2,9 @@
 
 This is a collection of some VSTs tested under Linux with [Wine](https://www.winehq.org/) and [LinVst](https://github.com/osxmidi/LinVst).
 
-All the reported VSTs were tested in [Reaper](https://www.reaper.fm/), with the indicated Wine versions (However, all the versions of Wine higher than the reported ones SHOULD work as well, pease report if you find out this is not the case).
+All the reported VSTs were tested with the indicated Wine versions (However, all the versions of Wine higher than the reported ones SHOULD work as well, pease report if you find out this is not the case).
 
-If you would like to add one or more VST to the list or if you find anything wrong in it, open an issue or communicate your opinion in the [Reaper forum](https://forum.cockos.com/showthread.php?t=217855). Remember to indicate the Distro and the Wine version you're using.
+If you would like to add one or more VST to the list or if you find anything wrong in it, open an issue (or make a pull request). Remember to indicate the Distro and the Wine version you're using.
 
 NOTE: This list will never be complete, neither reagarding the tested distros and the Wine versions, nor the tested plugins. The main purpose of this list is to give you an idea about what you can expect to get working with LinVst, without messing with your system (If you're not using a completely unknown distro, in which case you may consider switching to something more popular).
 
@@ -134,3 +134,5 @@ Be aware that your experience can greatly vary depending on which plugin you're 
 Apparently the biggest issues usually concern the GUI (as confirmed by osxmidi himself) and the license activation/registration, while the sound processing works fine in general.
 
 (Interesting fact: On my laptop, with a i7-6500u and a Behringer UMC204HD audio interface, I actually get less drop-outs running Amplitube 4 in Reaper through LinVst than I do on a native Windows 10 installation with the latest specific ASIO drivers)
+
+I'd like to thank all the Wine developers, osxmidi (author of LinVst) and all the people giving their time to improve this list.
