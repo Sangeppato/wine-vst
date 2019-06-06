@@ -37,6 +37,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Creative E-MU Proteus VX | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | DVS Guitar | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | DVS Saxophone | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Fxpansion BFD3 | ✔ | Fully working, use version 3.2.3.3. Version 3.4.0.44 crashes on second load | MX Linux 18.2 | 4.7 |
 | HoRNet SW34EQ MK2 | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet Graffio | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | HoRNet Tape | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
@@ -61,9 +62,13 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Ignite TPA-1 | ✔ | Fully working | Arch Linux, Ubuntu 18.10 | 4.0-4.2 |
 | IK Amplitube 4/Custom Shop | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | iZotope Ozone 8 | ✘ | Doesn't run | Ubuntu 18.04 | 4.0 |
+| Klanghelm MJUC | ✔ | Fully working, except hidden drive,timbre, SCF, Mix controls | MX Linux 18.2 | 4.7 |
 | Klanghelm MJUCjr | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Klanghelm SDRR | ✔ | Fully working | MX Linux 18.2 | 4.7 |
 | LePou Amp Pack (all sims) | ✔ | Fully working | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
 | LePou LeCab (32 bit) | ✘ | Freezing, Unusable | Arch Linux, Ubuntu 18.04, Ubuntu 18.10 | 4.0-4.4 |
+| Martinic Coombo F | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Martinic Combo V | ✔ | Fully working | MX Linux 18.2 | 4.7 |
 | Lexicon Pantheon Reverb | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments Kontakt 5 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Native Instruments Guitar Rig | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
@@ -75,6 +80,8 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Plugin Alliance Brainworx bx_rockrack V3 Player (Free presets) | ✔ | Fully working | Arch Linux | 4.2 |
 | Positive Grid BIAS FX | ✘ | Serious GUI issues | Arch Linux | 4.2 |
 | PSP Vintage Warmer | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Rayzoon Jamstix 3 | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Rayzoon Jamstix 4 | ● | Blank activation screen | MX Linux 18.2 | 4.7 |
 | Spitfire Audio Peel Guitar | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Spitfire Audio Strings | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Stillwell Audio The Rocket | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
@@ -91,6 +98,7 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Synthedit Jazz Baby Grand | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | TBProAudio dpMeter3 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | Tokyo Dawn TDR Nova | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Toneboosters EBULoudness | ✔ | Fully working | MX Linux 18.2 | 4.7 |
 | Toontrack EZDrummer 1 | ● | No drag and drop | Ubuntu 18.04, Ubuntu Studio 18.10 | 4.0 |
 | Toontrack Superior Drummer 3 | ✘ | No activation, No presets, GUI issues | Arch Linux | 4.2 |
 | Toontrack EZkeys Piano Essentials | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
@@ -98,11 +106,27 @@ NOTE: This list will never be complete, neither reagarding the tested distros an
 | Toontrack Superior Drummer 2 | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 | TSE X50 | ● | Free version only (Registration doesn't work) | Arch Linux | 4.2 |
 | Vacuumsound ADT | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
+| Valhalla Delay | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Valhalla Plate | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Valhalla Room | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Valhalla Ubermod | ✔ | Fully working | MX Linux 18.2 | 4.7 |
 | Valhalla Vintage verb | ✔ | Fully working | Fedora 29 | 4.0 |
 | Variety Of Sounds Plugin Suite | ✔ | Fully working | Linux Mint Debian 3 | 4.3 |
 | Vember Audio Shortcircuit 1.1.2 | ✘ | Not finding/loading samples | Ubuntu 14.04 | 2.0 |
 | Voxengo FREE Plugins | ✔ | Fully working | Ubuntu Studio 18.10 | / |
 | Voxengo Elephant | ✔ | Fully working | Fedora 29 | 4.0 |
+| Waves Abbey Road Plates | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves Abbey Road Chambers | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves CLA-2A | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves CLA-76 | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves dbx 160 | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves IR-L | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves Kramer Master Tape | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves Puigchild | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves Puigtec | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves ReelADT | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves Waves Tune | ✔ | Fully working | MX Linux 18.2 | 4.7 |
+| Waves Waves Tune Real-Time | ✔ | Fully working | MX Linux 18.2 | 4.7 |
 | Yohng W1 Limiter | ✔ | Fully working | Ubuntu 18.04 | 4.0 |
 
 Be aware that your experience can greatly vary depending on which plugin you're using, but in some cases it's possible to achieve very good results through Wine and LinVst.
